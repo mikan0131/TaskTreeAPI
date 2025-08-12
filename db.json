@@ -1,0 +1,10 @@
+{
+    "users": [
+        { "id": 1, "name": "Taro", "age": 20 },
+        { "id": 2, "name": "Hanako", "age": 25 }
+    ],
+    "tasks": [
+        { "id": 1, "title": "買い物", "done": false },
+        { "id": 2, "title": "勉強", "done": true }
+    ]
+}
